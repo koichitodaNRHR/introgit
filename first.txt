@@ -1,2 +1,4 @@
 Gitの練習をしていきます
 メッセージの追加をします
+git add
+git commit
